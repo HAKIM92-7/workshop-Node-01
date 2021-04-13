@@ -1,0 +1,15 @@
+{
+  "name": "ws-node",
+  "version": "1.0.0",
+  "description": "workshop node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakim",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "uuid": "^8.3.2"
+  }
+}
